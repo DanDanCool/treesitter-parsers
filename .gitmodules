@@ -1,0 +1,12 @@
+[submodule "tree-sitter-python"]
+	path = tree-sitter-python
+	url = https://github.com/tree-sitter/tree-sitter-python
+[submodule "tree-sitter-c"]
+	path = tree-sitter-c
+	url = https://github.com/tree-sitter/tree-sitter-c
+[submodule "tree-sitter-cpp"]
+	path = tree-sitter-cpp
+	url = https://github.com/tree-sitter/tree-sitter-cpp
+[submodule "tree-sitter-lua"]
+	path = tree-sitter-lua
+	url = https://github.com/MunifTanjim/tree-sitter-lua
